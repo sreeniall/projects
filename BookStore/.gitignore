@@ -3,7 +3,22 @@
 ### Java ###
 *.class
 
-# Mobile Tools for Java (J2ME)
+
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+/target/
+
+# Mobile Tools for Java	 (J2ME)
 .mtj.tmp/
 
 # Package Files #
@@ -64,3 +79,4 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+/target/
