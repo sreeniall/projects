@@ -10,5 +10,7 @@ public class StoreUtil {
 		
 		System.out.println(StoreUtil.getName("12sreenivas566"));
 		
+		System.out.println(StoreUtil.getName("12sreeiutytvas566"));
+		
 	}
 }
