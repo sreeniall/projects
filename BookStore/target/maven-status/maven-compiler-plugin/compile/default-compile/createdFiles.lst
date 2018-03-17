@@ -1,6 +1,11 @@
+com\bookstore\utils\StoreUtil.class
 com\bookstore\dto\Book.class
 com\bookstore\SpringBootRestExampleApplication.class
+com\bookstore\handler\OrderStatus.class
+com\bookstore\handler\Order.class
+com\bookstore\dto\Product.class
 com\bookstore\handler\BookList.class
 com\bookstore\handler\BookStoreHandler.class
+com\bookstore\handler\OrderItem.class
 com\bookstore\controllers\BookStoreController.class
 com\bookstore\handler\BookAvailableStatus.class

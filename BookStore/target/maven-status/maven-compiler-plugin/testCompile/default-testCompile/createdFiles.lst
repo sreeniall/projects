@@ -1,1 +1,3 @@
 com\bookstore\SpringBootRestExampleApplicationTests.class
+com\bookstore\BookStoreContollerTest$TestConfiguration.class
+com\bookstore\BookStoreContollerTest.class
